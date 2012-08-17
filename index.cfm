@@ -19,7 +19,7 @@
       <td valign="top">No</td>
       <td valign="top">en</td>
       <td valign="top"><p>Translate in that language. Using the <a href="http://en.wikipedia.org/wiki/ISO_639-1">ISO 639-1</a> language code.</p>
-      <p>Language available are en, fr, nl and de.</p></td>
+      <p>Language available are en, fr, nl, de, pt, es, it.</p></td>
     </tr>
   </tbody>
 </table>
@@ -27,4 +27,4 @@
 <p>#timeAgoInWords(fromTime=&quot;#createdat#&quot;, lang=&quot;fr&quot;)#</p>
 <p>&nbsp;</p>
 <h2>Project Home</h2>
-<a href="https://github.com/bizonbytes/inWords">https://github.com/bizonbytes/inWords</a>
+<a href="https://github.com/ymorin007/inwords">https://github.com/ymorin007/inwords</a>
